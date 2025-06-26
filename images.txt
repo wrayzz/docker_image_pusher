@@ -1,2 +1,2 @@
 postgres:16
-
+bililive-go:latest
