@@ -4,3 +4,4 @@ postgres:14
 #immich
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
+tensorchord/pgvecto-rs:pg16-v0.2.1
