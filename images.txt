@@ -1,3 +1,6 @@
 postgres:16
 redis:latest
 postgres:14
+#immich
+redis:6.2-alpine
+pgvecto-rs:pg14-v0.2.0
