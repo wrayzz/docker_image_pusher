@@ -7,7 +7,7 @@ redis:6.2-alpine
 redis:latest
 tensorchord/pgvecto-rs:pg14-v0.2.0
 tensorchord/pgvecto-rs:pg16-v0.2.1
-tensorchord/pgvecto-rs:pg14
+tensorchord/pgvecto-rs:pg14:latest
 #linuxserver
 linuxserver/jellyfin
 linuxserver/qbittorrent
