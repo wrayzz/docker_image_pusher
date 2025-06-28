@@ -7,6 +7,7 @@ redis:6.2-alpine
 redis:latest
 tensorchord/pgvecto-rs:pg14-v0.2.0
 tensorchord/pgvecto-rs:pg16-v0.2.1
+immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 
 #linuxserver
 linuxserver/jellyfin
