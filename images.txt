@@ -13,3 +13,4 @@ valkey/valkey:8-bookworm
 linuxserver/jellyfin
 linuxserver/qbittorrent
 linuxserver/calibre-web
+ghcr.io/immich-app/immich-server:release
