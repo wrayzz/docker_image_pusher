@@ -1,18 +1,9 @@
 #official
 chigusa/bililive-go
-tinymediamanager/tinymediamanager
+tinymediamanager/tinymediamanager:latest
+jellyfin/jellyfin:unstable
 
-#immich
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
-valkey/valkey:8-bookworm
-ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
-redis:6.2-alpine
-redis:latest
-
-  
 #linuxserver
-linuxserver/jellyfin
 linuxserver/qbittorrent
 linuxserver/calibre-web
 
