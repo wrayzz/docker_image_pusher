@@ -2,7 +2,6 @@
 chigusa/bililive-go
 tinymediamanager/tinymediamanager:latest
 jellyfin/jellyfin:2025122905
-
 #linuxserver
 linuxserver/qbittorrent
 linuxserver/calibre-web
