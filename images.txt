@@ -1,7 +1,7 @@
 #official
 chigusa/bililive-go
 tinymediamanager/tinymediamanager:latest
-jellyfin/jellyfin:unstable
+jellyfin/jellyfin:2025122905
 
 #linuxserver
 linuxserver/qbittorrent
