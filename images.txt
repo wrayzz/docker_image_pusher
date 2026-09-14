@@ -1,7 +1,7 @@
 #official
 chigusa/bililive-go
 tinymediamanager/tinymediamanager:latest
-jellyfin/jellyfin:latest
+jellyfin/jellyfin
 #linuxserver
 linuxserver/qbittorrent
 linuxserver/jackett
