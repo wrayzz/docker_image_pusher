@@ -4,7 +4,7 @@ tinymediamanager/tinymediamanager:latest
 jellyfin/jellyfin:latest
 #linuxserver
 linuxserver/qbittorrent
-linuxserver/calibre-web
 linuxserver/jackett
+linuxserver/calibre-web
 linuxserver/transmission
 linuxserver/jellyfin:latest
